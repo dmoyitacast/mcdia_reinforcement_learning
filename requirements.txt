@@ -1,0 +1,8 @@
+# Python 3.11. Box2D requires SWIG (pip install swig)
+gymnasium[box2d]==1.2.3
+stable-baselines3[extra]==2.8.0
+torch==2.11.0
+tensorboard==2.20.0
+moviepy==2.2.1
+swig==4.4.1
+jupyter
